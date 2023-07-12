@@ -1,0 +1,3 @@
+# Flipkart-Scrape
+I made a CSV file by scraping the data from Flipkart of laptops under 40k using Beautifulsoup for fun.....
+For scraping I used Python, BeautifulSoup and for CSV I used PANDAS.
